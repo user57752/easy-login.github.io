@@ -87,7 +87,7 @@ while in_use:
                     print("invalid choice, please try again")
             else:
                 t.sleep(1)
-                print("========================================")
+                print("=========================================")
                 print(" - 1. display your username and password")
                 print(" - 2. change your password")
                 print(" - 3. delete your account")
